@@ -21,9 +21,16 @@ The classification system focuses on detecting elephant sounds in audio data. Th
 
 1. Clone the repository:
 
+
    ```bash
    git clone https://github.com/parvatkhattak/elephant-sound-detection.git
    cd elephant-sound-detection
 
+2. Install dependencies
+ 
+3. Run the project
+```bash
+python main.py
+```
 
 
