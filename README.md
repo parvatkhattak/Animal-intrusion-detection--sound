@@ -9,9 +9,8 @@ The classification system focuses on detecting elephant sounds in audio data. Th
 
 ## How It Works
 
-1. **Pre-trained Model**: The file `elephant_sound_classifier.keras` contains a trained model for sound classification.
-2. **Notebook Execution**: Use `main.ipynb` to load the model and classify sounds based on input audio files.
-3. **Binary Classification**: The system determines whether an input sound is an elephant sound or not.
+1. **Notebook Execution**: Use `main.ipynb` to load the model and classify sounds based on input audio files.
+2. **Binary Classification**: The system determines whether an input sound is an elephant sound or not.
 
 ## Prerequisites
 
